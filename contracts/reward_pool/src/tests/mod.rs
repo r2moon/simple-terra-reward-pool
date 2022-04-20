@@ -1,0 +1,9 @@
+pub mod claim_test;
+pub mod deposit_test;
+pub mod fund_cw20_test;
+pub mod fund_denom_test;
+pub mod instantiate_test;
+pub mod mock_querier;
+pub mod test_utils;
+pub mod update_config_test;
+pub mod withdraw_test;
